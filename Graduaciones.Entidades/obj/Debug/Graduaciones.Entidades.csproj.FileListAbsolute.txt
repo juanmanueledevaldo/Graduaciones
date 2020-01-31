@@ -1,0 +1,6 @@
+C:\Users\cesar\source\repos\Graduaciones\Graduaciones.Entidades\bin\Debug\Graduaciones.Entidades.dll
+C:\Users\cesar\source\repos\Graduaciones\Graduaciones.Entidades\bin\Debug\Graduaciones.Entidades.pdb
+C:\Users\cesar\source\repos\Graduaciones\Graduaciones.Entidades\obj\Debug\Graduaciones.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\Graduaciones\Graduaciones.Entidades\obj\Debug\Graduaciones.Entidades.dll
+C:\Users\cesar\source\repos\Graduaciones\Graduaciones.Entidades\obj\Debug\Graduaciones.Entidades.pdb
+C:\Users\cesar\source\repos\Graduaciones\Graduaciones.Entidades\obj\Debug\Graduaciones.Entidades.csprojAssemblyReference.cache
